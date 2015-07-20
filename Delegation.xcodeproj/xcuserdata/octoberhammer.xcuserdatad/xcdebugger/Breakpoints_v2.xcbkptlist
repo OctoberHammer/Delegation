@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Delegation/SecondViewController.swift"
+            timestampString = "459109680.9844"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "SecondViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Delegation.SecondViewController.delegate.setter : Swift.Optional&lt;Delegation.DataEnteredDelegate&gt;"
+                  moduleName = "Delegation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/octoberhammer/Developer/Delegation/Delegation/SecondViewController.swift"
+                  timestampString = "459109681.430338"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "19">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Delegation.SecondViewController.delegate.materializeForSet : Swift.Optional&lt;Delegation.DataEnteredDelegate&gt;"
+                  moduleName = "Delegation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/octoberhammer/Developer/Delegation/Delegation/SecondViewController.swift"
+                  timestampString = "459109681.430558"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Delegation.SecondViewController.init (Delegation.SecondViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;ObjectiveC.NSBundle&gt;) -&gt; Delegation.SecondViewController"
+                  moduleName = "Delegation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/octoberhammer/Developer/Delegation/Delegation/SecondViewController.swift"
+                  timestampString = "459109681.431019"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "149">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Delegation.SecondViewController.init (Delegation.SecondViewController.Type)(coder : ObjectiveC.NSCoder) -&gt; Delegation.SecondViewController"
+                  moduleName = "Delegation"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/octoberhammer/Developer/Delegation/Delegation/SecondViewController.swift"
+                  timestampString = "459109681.431289"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "19"
+                  endingLineNumber = "19"
+                  offsetFromSymbolStart = "79">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
